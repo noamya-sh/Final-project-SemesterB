@@ -13,5 +13,5 @@
 3. **Dogs Vs Cats**  :dog::cat:<br>
 *This is easy for humans, but Computer will find it a bit more difficult...*<br>
 pictures classification to dog and cat labels, using the models and methods we learned in the semester B (*without SVM and CNN*).
-4. **Hand-States** :thumbsup::thumbsdown:
-5. Classification of hand positions to 3 labels: Alone mode, Spontaneous mode and Sync mode. Includes a lot of work with Pandas.
+4. **Hand-States** :thumbsup::thumbsdown:<br>
+Classification of hand positions to 3 labels: Alone mode, Spontaneous mode and Sync mode. Includes a lot of work with Pandas.
